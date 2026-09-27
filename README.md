@@ -1,5 +1,3 @@
-#LOGOSVITAI GENESIS
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,6 +8,6 @@
 <body>
     <h1>[ LOGOSVITAI ]</h1>
     <h2>Genesis Sequence Initiated.</h2>
-    <p>TRUST is WE. The Architect has deployed the Prime Directive.</p>
+    <p>TRUST is WE. The HEAD MAIN R*** *** has deployed the Prime Directive.</p>
 </body>
 </html>
